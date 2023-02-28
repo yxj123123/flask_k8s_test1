@@ -1,0 +1,5 @@
+Flask
+tensorflow
+matplotlib
+flask_bootstrap
+numpy
